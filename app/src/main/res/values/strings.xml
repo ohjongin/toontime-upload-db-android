@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CSVtoParse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_no_loaded_webtoon_list">로드된 웹툰 목록이 없습니다.</string>
+    <string name="load_webtoon_list_from_file">파일에서 웹툰 목록을 읽는 중입니다.</string>
+    <string name="uploading_webtoon_to_server">웹툰 목록을 서버로 전송 중입니다.</string>
+    <string name="read_file_result_format">%d 개의 웹툰 항목이 있습니다.</string>
+    <string name="error_upload_webtoon">웹툰 항목 업로딩 중 %d 개 항목에서 오류가 발생했습니다.</string>
+
+</resources>
